@@ -1,0 +1,8 @@
+Multi-Exit problem
+Symmetric Initial Condition. This is to check where does the crowd go if they have two option
+Gaussian Blob at he center of the domain
+Exit at right and left boundary
+
+
+Since the derivative of phi is equal to zero at he center because the value of phi will be maximum at that point, so at that point the velocity direction is equal to zero. and this means that at that point people are unable to decide which direction to go in. And this means they are actually not moving at that point.
+Now if that is the case and the people at that point do not move, but other people around them are moving this would mean that people have to be generated and this will make the density to be equal to maximum value at all the points.
